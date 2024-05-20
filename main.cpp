@@ -9,7 +9,7 @@ Servo myServo;
 #define SUDUT_BUKA 90
 #define SUDUT_TUTUP 0
 
-#menset pin digital led dan servo motor
+#menset kondisi awal led dan servo motor
 void setup() {
   pinMode(LED_RED, OUTPUT);
   pinMode(LED_GREEN, OUTPUT);
