@@ -18,7 +18,7 @@ void setup() {
 
 }
 
-#ketika lampu merah menyala, servo motor tertutup, ketika lampu hijau menyala, servo motor terbuka
+#ketika lampu merah menyala, servo motor tertutup, ketika lampu hijau menyala, servo motor terbuka, delay 30 detik
 void loop() {
 
   digitalWrite(LED_GREEN, HIGH);
