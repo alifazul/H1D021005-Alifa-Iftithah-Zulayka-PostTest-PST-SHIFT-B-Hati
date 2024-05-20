@@ -1,0 +1,4 @@
+1. Servo bekerja dengan mengontrol posisi rotor dengan mengubah arus listrik yang diterima oleh motor servo yang akan berputar sesuai dengan perintah yang diterima dari kontroler dan akan berhenti saat posisi rotor sesuai dengan perintah yang diterima.
+2. LED bekerja dengan mengubah energi listrik menjadi cahaya ketika dialiri listrik.
+3. Lampu lalu lintas, jam digital, mesin cuci, smartlock, pendeteksi gempa, smartdoor, mesin atm, mp3 player.
+4. Projek membuat sistem presensi menggunakan rfid menggunakan nodemcu sebagai mikrokontroller. Presensi dibuat berbasis website sehingga mahasiswa yang melaksanakan presensi akan tercantum pada website.
